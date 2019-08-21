@@ -27,6 +27,10 @@ seaborn: statistical data visualization
 <img src="https://seaborn.pydata.org/_static/horizontal_boxplot_thumb.png" height="135" width="135">
 </a>
 
+<a href=https://mybinder.org/v2/gh/bdevans/seaborn/master>
+<img src="https://mybinder.org/badge_logo.svg" height="135" width="135">
+</a>
+
 </div>
 
 --------------------------------------
