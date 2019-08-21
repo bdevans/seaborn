@@ -27,10 +27,6 @@ seaborn: statistical data visualization
 <img src="https://seaborn.pydata.org/_static/horizontal_boxplot_thumb.png" height="135" width="135">
 </a>
 
-<a href=https://mybinder.org/v2/gh/bdevans/seaborn/master>
-<img src="https://mybinder.org/badge_logo.svg" height="135" width="135">
-</a>
-
 </div>
 
 --------------------------------------
@@ -40,6 +36,7 @@ seaborn: statistical data visualization
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1313201.svg)](https://doi.org/10.5281/zenodo.1313201)
 [![Build Status](https://travis-ci.org/mwaskom/seaborn.svg?branch=master)](https://travis-ci.org/mwaskom/seaborn)
 [![Code Coverage](https://codecov.io/gh/mwaskom/seaborn/branch/master/graph/badge.svg)](https://codecov.io/gh/mwaskom/seaborn)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdevans/seaborn/master)
 
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
